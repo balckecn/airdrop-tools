@@ -1,6 +1,6 @@
 {
     "name": "airdrop-tools",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A brief description of your project",
     "homepage": "https://github.com/balckecn/airdrop-tools",
     "repository": {
@@ -10,7 +10,8 @@
     "dependencies": {
         "auto-friend": "^1.0.1",
         "cosmos-util": "^0.1.1",
-        "web3-scan": "^0.1.1"
+        "web3-scan": "^0.1.1",
+        "airdrop-util": "^0.1.0"
     },
     "main": "index.js",
     "scripts": {
